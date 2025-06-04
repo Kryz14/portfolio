@@ -165,7 +165,7 @@ const navLinks = [
       logoPath: "/images/logo2.png",
       title: "Full Stack Developer",
       date: "December 2024 - April 2025",
-      link: "https://strictlymessiah.com",
+      link: "https://www.strictlymessiah.com/",
       responsibilities: [
         "Led the development of Strictly Messiah web applications, focusing on scalability.",
         "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
