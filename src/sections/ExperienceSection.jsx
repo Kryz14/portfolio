@@ -1,6 +1,8 @@
 import gsap from "gsap";
 import { useGSAP } from "@gsap/react";
 import { ScrollTrigger } from "gsap/ScrollTrigger";
+import { ExternalLink } from "lucide-react"; // at the top
+
 
 import { expCards } from "../constants";
 import TitleHeader from "../components/TitleHeader";
@@ -122,6 +124,20 @@ const ExperienceSection = () => {
                       </div>
                       <div>
                         <h1 className="font-semibold text-3xl">{card.title}</h1>
+                        <div className="flex items-center gap-2">
+ 
+  {card.link && (
+    <a
+    href={card.link}
+    target="_blank"
+    rel="noopener noreferrer"
+    className="text-blue-400 hover:text-white transition"
+    title="View project"
+    >
+      <ExternalLink size={20} />
+    </a>
+  )}
+</div>
                         <p className="my-5 text-white-50">
                           🗓️&nbsp;{card.date}
                         </p>

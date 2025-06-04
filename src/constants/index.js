@@ -151,6 +151,7 @@ const navLinks = [
       imgPath: "/images/exp1.png",
       logoPath: "/images/logo1.png",
       title: "Frontend Developer",
+      link: "https://github.com/Kryz14/Shopware",
       date: "January 2024 - September 2024",
       responsibilities: [
         "Developed and maintained user-facing features for the Shopware website.",
@@ -164,6 +165,7 @@ const navLinks = [
       logoPath: "/images/logo2.png",
       title: "Full Stack Developer",
       date: "December 2024 - April 2025",
+      link: "https://strictlymessiah.com",
       responsibilities: [
         "Led the development of Strictly Messiah web applications, focusing on scalability.",
         "Worked with backend engineers to integrate APIs seamlessly with the frontend.",
