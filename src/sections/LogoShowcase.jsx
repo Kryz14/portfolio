@@ -1,4 +1,4 @@
-import { logoIconsList } from "../constants";
+  {/* import { logoIconsList } from "../constants";
 
 const LogoIcon = ({ icon }) => {
   return (
@@ -27,4 +27,4 @@ const LogoShowcase = () => (
   </div>
 );
 
-export default LogoShowcase;
+export default LogoShowcase; */}
