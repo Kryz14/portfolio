@@ -194,14 +194,14 @@ const navLinks = [
     
     {
       name: "Marvin McKinney",
-      mentions: "@marvinmckinney",
+      mentions: "@marvin",
       review:
         "Chris was a pleasure to work with. He turned our outdated website into a fresh, intuitive platform that’s both modern and easy to navigate. Fantastic work overall.",
       
     },
     {
-      name: "Floyd Miles",
-      mentions: "@floydmiles",
+      name: "Jess Kenth",
+      mentions: "@jesskenth",
       review:
         "Chris’s expertise in web development is truly impressive. He delivered a robust and scalable solution for our e-commerce site, and our online sales have significantly increased since the launch. He’s a true professional!",
       
@@ -227,10 +227,12 @@ const navLinks = [
     {
       name: "x",
       imgPath: "/images/x.png",
+      
     },
     {
       name: "linkedin",
       imgPath: "/images/linkedin.png",
+      
     },
   ];
   
