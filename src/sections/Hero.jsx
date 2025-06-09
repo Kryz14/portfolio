@@ -51,7 +51,7 @@ const Hero = () => {
             </div>
 
             <p className="text-white-50 md:text-xl relative z-10 pointer-events-none">
-            Hey there! I’m Chris, a developer from Nigeria who loves turning ideas into code and crafting intuitive web experiences.
+            Hi, I’m Chris — a developer who turns ideas into clean code and seamless web experiences.
             </p>
 
             <Button
